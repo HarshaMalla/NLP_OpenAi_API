@@ -11,12 +11,13 @@ The objective of this project is to explore the capabilities of the Whisper API 
 
 
 ## Tech Stack
+![jhghd](https://user-images.githubusercontent.com/96933166/227278411-7b3256cd-f3cb-4860-a729-ed2ea14a9c7d.png)
 
  
 
 
 
-<img title="" src="file:///C:/Users/91944/Downloads/jhghd.png" alt="jhghd.png" width="728">
+<img title="" src="" alt="jhghd.png" width="728">
 
 **Open AI's Whisper API :** For converting various types of audio inputs (speeches, songs, and conversations) into text format.
 
