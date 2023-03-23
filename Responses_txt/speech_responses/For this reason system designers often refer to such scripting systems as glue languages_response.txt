@@ -1,0 +1,45 @@
+However, creating a glue language is not a simple task. It requires adding a new language to an otherwise natural, human language. For example, a Common Gateway Interface (CGI) script or an EXEC or ASP script is fundamentally different from a program written in a compiled language. Another problem with glue languages is resource consumption. Since these scripts interpret slowly, some scripting languages are so simple that they compromise performance. This means that large-scale program design and testing cannot occur due to the time-consuming interpretation process.
+
+
+
+In other words, the medium deteriorates the message. Glue languages are limited by their own shortcomings, as well as the systems they are designed for. Few other computer programming obstacles compare to the speed, size and consistency of compiled code—a deficiency common among all scripting languages.
+
+
+
+However, programming languages need not be limited by this problem. They can take advantage of the strengths of both compiled languages and scripting languages to create a hybrid, or precompiled, language. Thus, a new method of language creation has formed. This method will be explored in the remainder of the article.
+
+
+
+A New Form: A Hybrid Language
+
+
+
+A hybrid language is a new form of language developed in order to leverage the strengths of both scripting and compiled programming languages. These languages both complement and ease the complexities of their predecessors. They are primarily aimed at reducing system demands and improving performance, but with a side benefit: languages designed as hybrids tend to be easier to develop.
+
+
+
+Also, a hybrid language need not mimic the strengths of compiled programming specifically. It simply means a language containing elements of both scripting and compiled languages. Such elements may include C++ classes and objects, in addition to Java Virtual Machines, JavaScript, or SQL databases,. Hybrid languages may be implemented as a downloaded, stand-alone executable application, or as a servlet or CGI executables. Like interpreted languages, the key component of hybrid languages is the deployment of already compiled code into existing applications. There are four common implementations of hybrid languages, some of which are described below: HTML Scripting: Scripts that can be inserted and manipulated into documents, as well as on webpages and HTML pages, are known as HTML scripting scripts. Used as both Visual Basic Scripting Edition and JavaScript, these technologies are a subset of a hybrid language, known collectively as the HTML scripting languages. These shorthand programs provide both the quick execution of compiled languages and the functionality of a programming language. Java Applets, Applets and Language Extension Modules (JALES): A language extension module is a kind of hybrid language. The concept behind JALES is to integrate interfaces such as Java and JavaScript into commonly used browsers, and thus eliminate the application overhead previously required for these functions. The Java integration of JAE would provide for access to a vast collection of existing Java libraries, including millions of classes and millions of externally coded functions. This collection would be provided with the full executable power of Java while being targeted at the most common market share, the browsers of Net users.
+
+
+
+In addition, Perl offers Java-like extensions. Following the same route, any language with a syntax similar to Java's may be put through a Java parser to optimize it for object-oriented use. Then, the Java Virtual Machine would be implemented for the resultant language to speed up the execution of these small interpreter scripts. Jales ships with the full power of Java functions and languages, and in addition, provides interface enhancements near the common web application. Real-Time Embedded Java (REJ): JSLE is a language extension module that allows Java programs that are designed for online deployment to run in an embedded state. It is tailored to running on embedded platforms, such as mobile pads, and so it is accompanied by a number of Java embedded functions.
+
+
+
+Unlike JALES, REJ is designed for small packages for devices that are in need of monitoring or control.. However, it accomplishes much of the same through a simpler interface and instant access to Java and other systems.
+
+
+
+These concepts demonstrate how hybrid languages can fill the gaps between classical scripting and compilation. Systems that host and deploy hybrid languages are not likely to replace the possibility of compiled applications any time soon. However, combined with a script language that easily integrates with C++ or Java, a hybrid language can reduce the quantity and complexity of steps required to program a function while improving its performance. Reversing performance demands demanded by today's systems can reduce the limitations and allow greater levels of achievement to occur in the future.
+
+
+
+Technologies Ceasing Development
+
+
+
+Some types of programming languages have seen their day in the sun. It may be that their usefulness has become eclipsed by evolving technology, or perhaps developers simply have less reason to use them.
+
+
+
+According to Beyond Java: A Guide to Next-Generation Programming Languages, certain types of programming languages will have trouble hanging out at the front of the Internet queue. For example, Visual Basic for Applications , a practice that is rapidly

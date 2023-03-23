@@ -1,0 +1,47 @@
+In my experience, if you do find yourself with missing information, there's a fair chance you'll be in contact with someone who has it or can easily find it. If you're trying to solve a problem, and you hand someone the only key to your house, you wouldn't be surprised if they could open your house and help you find the missing information. You'd respect the fact that they wanted to let themselves in, without the key—even though they might find some other things they shouldn't touch (like your underwear) while they are in your house.
+
+Even if you don't actually think that you'll be in a position to ask someone for the password to their house, you can choose to change perceptions of reality more in favor of your goals by maintaining an open relationship with this person.
+
+Back to our example: The last time I helped a person get information for a client, the person I was helping knew that I was going to be in touch with another person: the original owner of the information. With a little chat, it became apparent that we should try to get this person involved. Doing so increased the number of people we were in contact with and might improve both the odds of success and our data-handling skills. People cannot refuse to help, if they are made aware of the problem and invited to be involved in the solution.
+
+
+Technology Not Included Explicit Goals
+
+
+By using this technique to define what you'll use the power to accomplish and how you'll use the authority to solve the problem, you'll become instantly more connected to the final feeling of the "change the world" advocacy program. It'll help you realize that, until the end result is the event with the robot juggling, the world isn't "changing, just a little bit." Beyond that, it'll help you take personal responsibility for a successful advocate program.
+
+
+Use Technology to See Cause and Effect
+
+
+Use your calendar and to-do list as a scoreboard for all your commitments and planned activities. Treating them this way helps you identify technology that would make a given goal easier to accomplish. My calendar is a great example. I believe you should have a synched copy of all your preferred calendar clients in at least two places. I have the following:
+
+Blog: www.rossdog.nl/calendar
+
+Google sync: calender.google.com/
+
+Microsoft Outlook 2007
+
+iCal: macgirl.gmail.com/calendar/icalcaldriver
+
+
+Note the consistent use of three dot-atom to add an Internet location. Nice! Why do I say that this is a pretty good example? Because when I use my calendar, as it's suggested, the opening page looks like Figure 11-2.
+
+
+Figure 11-2. My Tracker Pro calendar with my schedule (larger view)
+
+
+The example list shows yours truly—ready to ride his bicycle, having a lunch meeting, meeting a couple of friends, resting, talking at a conference, sitting for shiatsu massage (a therapeutic treatment based on pressure applied with thumbs and palms), and then leaving for the airport. Technology clearly helped out with the massage, shiatsu appointment, and paid transportation (airline and airport). Having this good way to track my time also helps me to think about activities that compete for my small amount of available time. If someone is complaining about how I haven't responded to an email, it's just a click away to see that I have time for their email and so can respond to it.
+
+Tip Don't let your calendar teach you to be unhappy. I love the Tracker Pro calendar because it's a lean solution, meant to collect data, not to cue up tunes, display pictures, or provide any visual notes. It's a lean calendar and I use it lean. I save the fancier calendars for use when I am lying on a dreamy beach beside a pristine ocean. Why not use your calendar to help you obtain a fundamental component of happiness? We can all help you to use it this way.
+
+
+The same is true for definition building. In the Tracker Pro, I have 10 fields built in (more on this in Chapter 14). But in a very short time, I added a custom field (a video in the photo gallery integrating with a calendar appointment) with my current definition. I can now bring my "body text," the code, and the video together in one cleaner presentation. I experimented with the other client-integrated applications to see what they call "modules" or "fields":
+
+
+Web Calendar Everywhere: zakelijke.google.com/ontvanger.html?hl=en (Note specifically the limited-use field in between subject and message—called Location.)
+
+Sunbird:www.mozilla.com/en-US/sunbird/
+
+
+Tip You can use the time when you don't have to think about the person you're supposed to be impersonating to consider the tasks and

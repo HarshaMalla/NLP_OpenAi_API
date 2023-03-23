@@ -1,0 +1,55 @@
+Figure 6.3 Illustration showing the key factors and emotions involved in the original scenario of the simulation described in Box 6.1.
+
+
+Figure 6.4 Emotions involved in the the UAI
+
+
+STUDY 2 [1]: DEVELOPMENT OF A SIMULATION GAMEFOR SERVICE MANAGEMENT
+
+
+Mission Statement: A high level of customer service is achieved and business still makes a profit—achieved by staff responding more quickly to customers’ problems and requests.
+
+Team-building: identifies opportunities for addressing behaviour and lifestyle.
+
+Has high defensiveness as it involves emotions concerning self.
+
+
+In 1999, the UAI was used to develop a sequence of six simulation games for use in an induction programme for a new call recording system on a mainland call centre in an international technology company, the “SIMPLEDYNE project”. This project was part of a large-scale organisational transformation programme called “FOCUS”. The idea behind it was to ensure that the individual can contribute to the success of the team and organisation. Furthermore, the learning of each asset should be continuous and oriented towards real situations, offering as much variety and training as possible within a realistic context. The final objective is to improve technician skills, but not just functional skills. Boundaries need to be challenged, as do prejudices and fixed ideas, as well as stamina and stamina. The technology company wanted to support their employees as effectively as possible in these areas.
+
+SIMPLEDYNE comprised four simulation exercises and a debriefing. The following exercise is based upon the UAI (Box 6.1). In the first exercise, new technical representatives can solve a customer’s problems and be considered to be highly successful. In the second exercise, each participant is supposed to trace a simulated customer problem and record it on paper or electronically. Each of the activities builds on the development of the competencies of the previous exercise.
+
+The aim is to create a successful goal-oriented monitoring system, set up work schedules and work centres and ensure that they are occupied by the right employees with the necessary education, skills and competencies. For each process, this creates three- to twelve-user interdependencies. It is a problem that process time cannot be measured in the same way during a simulation as on the computer systems in real-life scenarios. Ex-simulations that have worked the best have an enlightened observer who can take control of the situation.
+
+
+System Analysis.
+
+
+The UAI was developed (from zero) and further finished during at different forums and intensive work. After each simulation, the customer representatives had debriefings, in which participants identified a whole range of problems that may have occurred during the simulation and tried to determine remedies for these situations. A general customer P
+
+trend analysis was then made and discussed by senior management. The result of these discussions has helped to improve and clarify the simulation, and to prepare constructive paths for the examination of future scenarios.
+
+This method is used to develop the “SIMPLEDYNE project” in a realistic manner and examines how the views of high-placed managers and of the customer community can be illustrated in a simulation and further bridge the gap between these two groups of people.
+
+The aim of the customer project development was to offer success, which was experienced through the activities taken and the situations in which, together with one or two human colleagues, a customer referral is solved, clients are inspired and do not become discouraged, and are willing to wait for the end of their requests. This success was achieved through their technology and the journey of self-discovery and healthy competition in their abilities.
+
+
+CASE STUDY 2: DEVELOPMENT OF THE UAI TILL 2000
+
+
+In January 2000, the UAI was presented in “The Second Life of Standards and Procedutes”, a meeting organised by NAi Media in The Netherlands, in terms of language and artificial intelligence (Box 7.4, Chapter 7).
+
+
+PUBLICATIONS
+
+
+How to Develop Simulation Exercises and Games Based Upon the User Acted Interface. MAINZ 2001
+
+Weible, A. (2001) Ubiquitous Applications: Creating Truly Integrated Value Systems in Information Management. MAINZ 2001
+
+Weible, A. (2001) Windows to the future of simulation. MAINZ 2001
+
+Weible, A. (2001) Ubiquitous Simulation and the Ubiquitous Learning Lab. Haufe-umgartner Gesellschaft für Personalentwicklung, Wiesbaden.
+
+Weible, A. (2001) Toward the Second Life of CADS and Standards, Proceedings of 9th European Conference: CADS and Standards; The Challenge for Information and Communication Management, November 18–19, 2001, University of Limerick, Limerick, Ireland
+
+Weible, A. (2001) Second Life of Standards – Technical
